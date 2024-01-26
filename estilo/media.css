@@ -21,11 +21,15 @@
         font-size: 14px;
         border: 2px solid white;
         padding: 2px;
+        
+        
     }
 
     a{
         margin: 2px;
+        
     }
+    
 
     main h1 {
         font-size: 15px;
