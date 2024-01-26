@@ -2,6 +2,7 @@
 
     header{
         padding-bottom: 1px;
+        background-color: blue;
     }
     
     header > h1{
